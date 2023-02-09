@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Examples/Giris.unity
+    guid: f03efe0733fbf084f92d8a3cf2f4e4c8
+  - enabled: 1
+    path: Assets/Scenes/Examples/Scene_Biome_Desert.unity
+    guid: 092574b58ebb13a4283ebba9a93df23a
+  - enabled: 1
+    path: Assets/Scenes/Examples/scoreBoard.unity
+    guid: 3911105b91605494d86910654472444c
+  m_configObjects: {}
